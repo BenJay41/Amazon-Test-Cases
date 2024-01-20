@@ -4,15 +4,15 @@ Welcome to the Amazon Test Cases Repository! This repository is dedicated to doc
 
 ## Table of Contents
 
-- [Test Scenarios](#test-case-categories)
-- [Test Cases](#file-structure)
-- [Steps To Execute](#contributing)
-- [Expected Results](#issues)
-- [Actual Results](#license)
+- [Overview](#overview)
+- [Test Case Categories](#test-case-categories)
+- [File Structure](#file-structure)
+- [Licnece](#license)
 
 ## Overview
 
 This repository serves as a central hub for storing and maintaining test cases that cover different scenarios within the Amazon platform. The goal is to provide a comprehensive set of test cases that can be used for testing and quality assurance purposes.
+
 
 ## Test Case Categories
 
@@ -20,6 +20,14 @@ This repository serves as a central hub for storing and maintaining test cases t
 - [Account Registration Page](https://github.com/BenJay41/Amazon-Test-Cases/blob/main/amazon%20reg.%20page.xlsx)
 
 Feel free to explore each category for detailed test cases and scenarios.
+
+## Inside Contents
+
+- Test scenarios
+- Test cases
+- Steps to execute
+- Expected results
+- Actual results
 
 ## File Structure
 
