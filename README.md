@@ -7,7 +7,7 @@ Welcome to the Amazon Test Cases Repository! This repository is dedicated to doc
 - [Overview](#overview)
 - [Test Case Categories](#test-case-categories)
 - [File Structure](#file-structure)
-- [Licnece](#license)
+- [License](#license)
 
 ## Overview
 
